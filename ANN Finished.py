@@ -1,3 +1,8 @@
+#ANN for credit prediction
+#Authors:
+#Vincent Weidlich(vincentweidlich89@gmail.com)
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
